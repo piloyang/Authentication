@@ -1,0 +1,4 @@
+With installing the zip file please install:
+pip install requests
+pip install beautifulsoup4
+pip install cryptography
